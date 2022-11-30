@@ -20,8 +20,6 @@ The code has achieved a parallel efficiency of 0.98 for 5.2-billion atom system 
 
 <img width="486" alt="image" src="https://user-images.githubusercontent.com/38379489/204931460-d8057474-573b-4284-8480-ed3c513059bf.png">
 
-<img width="486" alt="image" src="https://user-images.githubusercontent.com/38379489/204931507-fd332e59-10c3-4bb7-b578-9f91a0ce0274.png">
-
 ## Expectations
 The resulting NNQMD code will enable first simulation of strain-induced skyrmion-to-skyrmionium topological transition toward achieving ultralow-power opto-topotronic devices. 
 
