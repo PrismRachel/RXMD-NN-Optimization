@@ -14,9 +14,13 @@ Neural network quantum molecular dynamics (NNQMD) simulations based on machine l
 ## The current progress
 The code has achieved a parallel efficiency of 0.98 for 5.2-billion atom system on 262,144 cores of the Theta supercomputer at Argonne Leadership Computing Facility (ALCF). In preparation for the forthcoming ALCF Aurora exascale computer, we have offloaded key kernels of the NNQMD code to graphics processing units, gaining 4.36-5.34x speedup, and additional 1.7x speedup by loop reordering. 
 
+<img width="486" alt="image" src="https://user-images.githubusercontent.com/38379489/204931548-e474a70c-e6e2-4d7d-a7b0-b696dd6c7e72.png">
 
 <img width="486" alt="image" src="https://user-images.githubusercontent.com/38379489/204931385-08bae7ff-f0d1-48f4-abad-53c84a085a28.png">
 
+<img width="486" alt="image" src="https://user-images.githubusercontent.com/38379489/204931460-d8057474-573b-4284-8480-ed3c513059bf.png">
+
+<img width="486" alt="image" src="https://user-images.githubusercontent.com/38379489/204931507-fd332e59-10c3-4bb7-b578-9f91a0ce0274.png">
 
 ## Expectations
 The resulting NNQMD code will enable first simulation of strain-induced skyrmion-to-skyrmionium topological transition toward achieving ultralow-power opto-topotronic devices. 
